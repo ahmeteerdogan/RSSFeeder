@@ -1,2 +1,1 @@
 # RSSFeeder
-Rss Feeder
