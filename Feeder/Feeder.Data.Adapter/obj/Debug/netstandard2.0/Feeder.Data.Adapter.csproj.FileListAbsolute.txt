@@ -1,0 +1,24 @@
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.Adapter.deps.json
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.Adapter.dll
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.DTO.dll
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.Adapter.pdb
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.DTO.pdb
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.csproj.CopyComplete
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.dll
+C:\Users\Ahmet\source\repos\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.Adapter.deps.json
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.Adapter.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.Adapter.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.DTO.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\bin\Debug\netstandard2.0\Feeder.Data.DTO.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Data.Adapter\obj\Debug\netstandard2.0\Feeder.Data.Adapter.pdb

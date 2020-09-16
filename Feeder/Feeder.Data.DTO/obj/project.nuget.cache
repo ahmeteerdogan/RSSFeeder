@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgycjGqmmO4Z7F2e3bzw0dPYG4+w1OfZZ6o+1vvx9hXz0Issc47pHSOfs1+JAqA4EFJ4fs5kGzI2dcet0Sluuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ahmet\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

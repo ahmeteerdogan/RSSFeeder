@@ -1,0 +1,205 @@
+{
+  "Technology": [
+    "https://www.sabah.com.tr/rss/teknokulis.xml",
+    "https://www.webtekno.com/rss.xml",
+    "https://www.teknoblog.com/feed/",
+    "https://www.donanimhaber.com/rss/tum/",
+    "https://www.log.com.tr/feed/",
+    "https://webrazzi.com/feed/",
+    //"https://servis.chip.com.tr/chiponline-haber.xml",
+    "https://onedio.com/support/rss.xml?category=59edee88289af902f042bcea"
+  ],
+  "Sport": [
+    "https://www.ntv.com.tr/spor.rss",
+    //"https://tr.beinsports.com/rss/ana-sayfa",
+    "http://www.haberturk.com/rss/spor.xml",
+    "https://www.sabah.com.tr/rss/spor.xml",
+    "https://www.sabah.com.tr/rss/galatasaray.xml",
+    "https://www.sabah.com.tr/rss/fenerbahce.xml",
+    "https://www.sabah.com.tr/rss/besiktas.xml",
+    "https://www.sabah.com.tr/rss/trabzonspor.xml",
+    "https://www.sabah.com.tr/rss/bursaspor.xml",
+    "https://onedio.com/support/rss.xml?category=4fa2e79f027fbe9d1c00000d"
+  ],
+  "Magazine": [
+    "http://www.haberturk.com/rss/magazin.xml",
+    "https://www.cnnturk.com/feed/rss/magazin/gallery",
+    "https://www.medyatava.com/export/rss",
+    "https://onedio.com/support/rss.xml?category=59edf033289af902f042bceb",
+    "https://www.ucankus.com/rss/",
+    "https://onedio.com/support/rss.xml?category=59edf033289af902f042bceb"
+  ],
+  "JobAndFinance": [
+    "https://uzmanpara.milliyet.com.tr/haber_rss/",
+    //"https://www.bloomberght.com/rss",
+    "https://fastcompany.com.tr/feed/",
+    "https://www.finans365.com/rss.xml",
+    "https://www.sabah.com.tr/rss/ekonomi.xml",
+    "https://www.ntv.com.tr/ekonomi.rss",
+    "http://www.haberturk.com/rss/kategori/is-yasam.xml",
+    "http://www.fortuneturkey.com/rss/genel.xml"
+
+  ],
+  "Journal": [
+    "https://www.ntv.com.tr/gundem.rss",
+    //"http://www.haberturk.com/rss",
+    "https://www.tgrthaber.com.tr/feed/sondakika/index.rss",
+    "https://www.sozcu.com.tr/rss.php"
+  ],
+  "Writers": [
+    "http://www.hurriyet.com.tr/rss/yazarlar/ahmet-hakan",
+    "http://www.hurriyet.com.tr/rss/yazarlar/altan-tanrikulu",
+    "http://www.hurriyet.com.tr/rss/yazarlar/ayse-aral",
+    "http://www.hurriyet.com.tr/rss/yazarlar/yilmaz-ozdil",
+    "http://www.hurriyet.com.tr/rss/yazarlar/cengiz-semercioglu",
+    "http://www.hurriyet.com.tr/rss/yazarlar/ercan-saatci",
+    "http://www.hurriyet.com.tr/rss/yazarlar/ertugrul-ozkok",
+    "http://www.hurriyet.com.tr/rss/yazarlar/erman-toroglu",
+    "http://www.haberturk.com/rss/kategori/yazarlar.xml"
+  ],
+  "Science": [
+    "https://evrimagaci.org/rss.xml",
+    "https://bilimvegelecek.com.tr/index.php/feed/",
+    "https://www.hayaleturk.com/feed/",
+    "https://www.atlasdergisi.com/feed",
+    "https://www.mokapota.com/feed",
+    "https://gaiadergi.com/feed/",
+    "https://www.soylentidergi.com/feed/",
+    "http://komplikedergi.com/feed/",
+    "https://www.kreatifbiri.com/feed/",
+    "https://dunyadanceviri.wordpress.com/feed/",
+    "http://www.tarihakli.com/feed/",
+    "https://politepol.com/feed/41355",
+    "https://politepol.com/feed/41364",
+    "https://politepol.com/feed/41370",
+    "https://politepol.com/feed/41372",
+    "https://politepol.com/feed/41373",
+    "http://popsci.com.tr/feed/",
+    "https://popsci.com.tr/feed/",
+    "http://feeds.bbci.co.uk/turkce/dergi/rss.xml",
+    "http://beyinsizler.net/feed/",
+    "http://nbeyin.com.tr/feed/",
+    "http://www.matematiksel.org/feed/",
+    "https://nebulasayfa.blogspot.com/…eds/posts/default",
+    "http://www.fizikist.com/rss/",
+    "http://noroblog.net/feed/",
+    "https://www.muhendisbeyinler.net/feed/",
+    "https://www.gelecekegitimde.com/feed/",
+    "https://akilfikir.net/feed/",
+    "https://bilimoloji.com/feed/",
+    "https://www.dijitalx.com/feed/",
+    "https://www.evrenbilim.com/feed/",
+    "https://rasyonalist.org/feed/",
+    "https://www.biyolojizm.com/feed/",
+    "http://bilimdili.com/feed/",
+    "https://www.bilimcini.com/feed/",
+    "http://bilimneguzellan.net/feed/",
+    "http://haber.sol.org.tr/taxonomy/term/9/feed",
+    "https://www.biyolojigunlugu.com/feed/",
+    "https://www.bilimvetekno.com/feed/",
+    "http://goster.co/bilim/feed",
+    "https://feeds.feedburner.com/euronews/tr/sci-tech",
+    "http://bilimfili.com/feed/",
+    "http://arkeofili.com/?feed=rss2",
+    "http://feeds.feedburner.com/bigumigu/tdkf",
+    "http://www.gercekbilim.com/feed/",
+    "http://www.bilgiustam.com/feed/",
+    "http://www.bilim.org/rss/",
+    "http://www.kozmikanafor.com/feed/",
+    "http://bilgihanem.com/feed/",
+    "http://www.herkesebilimteknoloji.com/feed",
+    "http://www.egitimpedia.com/feed",
+    "http://www.kuark.org/feed/",
+    "http://www.bilimkurgukulubu.com/feed/",
+    "http://www.dusunbil.com/feed/",
+    "http://egoistokur.com/feed/"
+
+  ],
+  "Life": [
+    "https://www.uplifers.com/feed/",
+    "https://livetobloom.com/feed/",
+    "https://www.kizlarsoruyor.com/rss",
+    "http://www.haberturk.com/rss/kategori/yasam.xml",
+    "https://www.ntv.com.tr/yasam.rss"
+  ],
+  "GameAndGeek": [
+    "https://frpnet.net/feed",
+    "https://geekyapar.com/feed/",
+    //"https://oyungezer.com.tr/rss",
+    "https://www.log.com.tr/play/rss",
+    "https://onedio.com/support/rss.xml?category=4fa2e79f027fbe9d1c000017"
+  ],
+  "Motorsport": [
+    //"https://tr.motor1.com/rss/articles/all/",
+    //"https://tr.motorsport.com/rss/all/news/",
+    "https://benzinmagazin.com/feed/",
+    "https://www.log.com.tr/asfalt/rss",
+    //"https://www.ntv.com.tr/otomobil.rss",
+    //"http://www.haberturk.com/rss/kategori/otomobil.xml"
+  ],
+  "Politics": [
+    "http://www.haberturk.com/rss/kategori/siyaset.xml"
+  ],
+  "CinemaAndTV": [
+    "https://www.filmhafizasi.com/feed/",
+    "https://www.filmloverss.com/feed/",
+    "https://22dakika.org/feed/",
+    "http://www.haberturk.com/rss/kategori/sinema.xml",
+    "https://onedio.com/support/rss.xml?category=4fa2e79f027fbe9d1c000016"
+  ],
+  "Art": [
+    "https://bantmag.com/feed/",
+    "https://kayiprihtim.com/feed/",
+    "https://vesaire.org/feed/",
+    "https://www.ntv.com.tr/sanat.rss",
+    "http://www.haberturk.com/rss/kategori/kultur-sanat.xml",
+    "https://onedio.com/support/rss.xml?category=4fa2e79f027fbe9d1c000026"
+  ],
+  "Health": [
+    "http://www.haberturk.com/rss/kategori/saglik.xml",
+    "https://www.ntv.com.tr/saglik.rss",
+    "https://www.e-psikiyatri.com/rss",
+    "https://www.medikalakademi.com.tr/feed/",
+    "https://www.doktoramcam.com/feed/",
+    "http://www.cosmopolitanturkiye.com/rss/saglik-spor.xml",
+    "https://www.saglikveyasamsitesi.com/…/posts/default",
+    "https://www.menshealth.com.tr/feed/",
+    "http://www.saglikveyasamdergisi.com.tr/feed",
+    "https://www.drozdogan.com/rss.xml",
+    "http://www.cumhuriyet.com.tr/rss/12.xml",
+    "http://www.trt.net.tr/rss/saglik.rss",
+    "http://www.ensonhaber.com/rss/saglik.xml"
+
+
+  ],
+  "Travel": [
+    "http://www.haberturk.com/rss/kategori/tatil.xml",
+    "https://yoldaolmak.com/feed",
+    "https://kesfet.tv/feed",
+    "https://www.ntv.com.tr/seyahat.rss",
+    "https://www.uzakrota.com/feed/",
+    " https://nereye.com.tr/feed/",
+    "https://bilinmeyenrota.com/feed/"
+
+
+  ],
+  "Fashion": [
+    "https://vogue.com.tr/rss",
+    "https://www.lofficiel.com.tr/feed",
+    "http://www.cosmopolitanturkiye.com/rss/moda-stil.xml",
+    "http://www.cosmopolitanturkiye.com/rss/guzellik.xml",
+    "http://www.cosmopolitanturkiye.com/rss/unluler.xml",
+    "http://www.cosmopolitanturkiye.com/rss/iliskiler.xml",
+    "http://www.cosmopolitanturkiye.com/rss/erkeklerin-dunyasi.xml",
+    "https://onedio.com/support/rss.xml?category=4fa8fda4ed765b112200000f"
+  ],
+  "Food": [
+    "https://www.ardaninmutfagi.com/feed",
+    "https://yemek.com/feed/",
+    "https://www.nefisyemektarifleri.com/feed/",
+    "http://www.haberturk.com/rss/kategori/gida.xml",
+    "https://onedio.com/support/rss.xml?category=5ea2bf921074b668c0bd58a5",
+    "https://onedio.com/support/rss.xml?category=58eb8d710213032fb1f270c0"
+
+  ]
+}
