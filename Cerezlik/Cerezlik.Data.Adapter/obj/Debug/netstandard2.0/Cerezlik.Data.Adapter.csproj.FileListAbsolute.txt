@@ -1,0 +1,24 @@
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.Adapter.deps.json
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.Adapter.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.Adapter.pdb
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.DTO.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.DTO.pdb
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.csproj.CopyComplete
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.Adapter.deps.json
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.Adapter.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.Adapter.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.DTO.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\bin\Debug\netstandard2.0\Cerezlik.Data.DTO.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.Data.Adapter\obj\Debug\netstandard2.0\Cerezlik.Data.Adapter.pdb

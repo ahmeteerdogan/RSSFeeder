@@ -1,0 +1,70 @@
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.exe
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.deps.json
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.runtimeconfig.json
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.pdb
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\NPoco.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.Data.Adapter.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.Data.DTO.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.Data.Adapter.pdb
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.Data.DTO.pdb
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.csproj.CopyComplete
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\staticwebassets\Cerezlik.API.StaticWebAssets.Manifest.cache
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\staticwebassets\Cerezlik.API.StaticWebAssets.xml
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.dll
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.pdb
+C:\Users\Ahmet\source\repos\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.genruntimeconfig.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.exe
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.deps.json
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.runtimeconfig.json
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.API.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\NPoco.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.Data.Adapter.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.Data.DTO.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.Data.Adapter.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\bin\Debug\netcoreapp3.1\Cerezlik.Data.DTO.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.RazorTargetAssemblyInfo.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\staticwebassets\Cerezlik.API.StaticWebAssets.Manifest.cache
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\staticwebassets\Cerezlik.API.StaticWebAssets.xml
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.dll
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.pdb
+C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Cerezlik\Cerezlik.API\obj\Debug\netcoreapp3.1\Cerezlik.API.genruntimeconfig.cache
