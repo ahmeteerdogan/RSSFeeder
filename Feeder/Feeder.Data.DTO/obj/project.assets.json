@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
+      "projectUniqueName": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
       "projectName": "Feeder.Data.DTO",
-      "projectPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
+      "projectPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
       "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\obj\\",
+      "outputPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

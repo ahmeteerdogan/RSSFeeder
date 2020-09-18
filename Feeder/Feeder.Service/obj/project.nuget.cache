@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n4+2LGFckyHTO1j3slCBrck8iBsefmyIL35NnFDKi0PaVsxiYpfaCynFbqtNS9LNw1U7rAs+FMS2qOdCmckJlw==",
+  "dgSpecHash": "k8AfjkxcaU6nAEAlQvUY63dmQdBcprAlihJGGx3AJQ2o33j6tB2Nl1KgnaNPdbPoxn23Suz8+wxG4LLbWNjVgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Service\\Feeder.Service.csproj",
+  "projectFilePath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Service\\Feeder.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj": {}
+    "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj": {
+    "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj",
+        "projectUniqueName": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj",
         "projectName": "Feeder.Data.Adapter",
-        "projectPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj",
+        "projectPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.Adapter\\obj\\",
+        "outputPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj": {
-                "projectPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj"
+              "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj": {
+                "projectPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj": {
+    "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
+        "projectUniqueName": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
         "projectName": "Feeder.Data.DTO",
-        "projectPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
+        "projectPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\Feeder.Data.DTO.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.DTO\\obj\\",
+        "outputPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

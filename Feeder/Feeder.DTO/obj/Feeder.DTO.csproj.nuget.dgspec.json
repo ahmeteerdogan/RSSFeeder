@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj": {}
+    "C:\\repo\\RSSFeeder\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj": {
+    "C:\\repo\\RSSFeeder\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj",
+        "projectUniqueName": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj",
         "projectName": "Feeder.DTO",
-        "projectPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj",
+        "projectPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.DTO\\obj\\",
+        "outputPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

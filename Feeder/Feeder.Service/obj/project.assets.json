@@ -1481,11 +1481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Service\\Feeder.Service.csproj",
+      "projectUniqueName": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Service\\Feeder.Service.csproj",
       "projectName": "Feeder.Service",
-      "projectPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Service\\Feeder.Service.csproj",
+      "projectPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Service\\Feeder.Service.csproj",
       "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Service\\obj\\",
+      "outputPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1505,11 +1505,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj": {
-              "projectPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj"
+            "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj": {
+              "projectPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.Data.Adapter\\Feeder.Data.Adapter.csproj"
             },
-            "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj": {
-              "projectPath": "C:\\Users\\Ahmet\\Desktop\\ÇEREZLİK RSS WEB SİTE\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj"
+            "C:\\repo\\RSSFeeder\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj": {
+              "projectPath": "C:\\repo\\RSSFeeder\\Feeder\\Feeder.DTO\\Feeder.DTO.csproj"
             }
           }
         }
