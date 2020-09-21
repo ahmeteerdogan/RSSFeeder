@@ -16,3 +16,12 @@ C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.DTO\obj\Debug\nets
 C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.csproj.CoreCompileInputs.cache
 C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.dll
 C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.pdb
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\bin\Debug\netstandard2.0\Feeder.DTO.deps.json
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\bin\Debug\netstandard2.0\Feeder.DTO.dll
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\bin\Debug\netstandard2.0\Feeder.DTO.pdb
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.csprojAssemblyReference.cache
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.AssemblyInfoInputs.cache
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.AssemblyInfo.cs
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.csproj.CoreCompileInputs.cache
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.dll
+C:\repo\RSSFeeder\Feeder\Feeder.DTO\obj\Debug\netstandard2.0\Feeder.DTO.pdb

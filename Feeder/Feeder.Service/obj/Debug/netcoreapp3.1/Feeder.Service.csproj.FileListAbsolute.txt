@@ -66,3 +66,37 @@ C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Service\obj\Debug\
 C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.dll
 C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.pdb
 C:\Users\Ahmet\Desktop\ÇEREZLİK RSS WEB SİTE\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.genruntimeconfig.cache
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Service.exe
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Cat.json
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Program.cs
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Service.deps.json
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Service.runtimeconfig.json
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Service.runtimeconfig.dev.json
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Service.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Service.pdb
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\NPoco.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Data.Adapter.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Data.DTO.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.DTO.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Data.Adapter.pdb
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.DTO.pdb
+C:\repo\RSSFeeder\Feeder\Feeder.Service\bin\Debug\netcoreapp3.1\Feeder.Data.DTO.pdb
+C:\repo\RSSFeeder\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.csprojAssemblyReference.cache
+C:\repo\RSSFeeder\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.AssemblyInfoInputs.cache
+C:\repo\RSSFeeder\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.AssemblyInfo.cs
+C:\repo\RSSFeeder\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.csproj.CoreCompileInputs.cache
+C:\repo\RSSFeeder\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.csproj.CopyComplete
+C:\repo\RSSFeeder\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.dll
+C:\repo\RSSFeeder\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.pdb
+C:\repo\RSSFeeder\Feeder\Feeder.Service\obj\Debug\netcoreapp3.1\Feeder.Service.genruntimeconfig.cache
